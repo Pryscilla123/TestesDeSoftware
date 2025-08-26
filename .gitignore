@@ -133,4 +133,4 @@ $RECYCLE.BIN/
 _NCrunch*
 
 # Removendo pasta do visual studio
-*/.vs
+.vs/
