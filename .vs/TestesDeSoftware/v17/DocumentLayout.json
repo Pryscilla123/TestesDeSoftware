@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\features.tests\\05 - mock\\clienteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|solutionrelative:features.tests\\05 - mock\\clienteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\features.tests\\04 - dados humanos\\clientetestsbogusfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|solutionrelative:features.tests\\04 - dados humanos\\clientetestsbogusfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\features.tests\\02 - fixtures\\clientetestsfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|solutionrelative:features.tests\\02 - fixtures\\clientetestsfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\features\\clientes\\clienteemailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|solutionrelative:01 - testes de unidade\\features\\clientes\\clienteemailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\features\\clientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|solutionrelative:01 - testes de unidade\\features\\clientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\features\\clientes\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|solutionrelative:01 - testes de unidade\\features\\clientes\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\features\\clientes\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|solutionrelative:01 - testes de unidade\\features\\clientes\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\features.tests\\02 - fixtures\\clientetestevalido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|solutionrelative:features.tests\\02 - fixtures\\clientetestevalido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\features.tests\\04 - dados humanos\\clientebogustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|solutionrelative:features.tests\\04 - dados humanos\\clientebogustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\features.tests\\02 - fixtures\\clientetesteinvalido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|solutionrelative:features.tests\\02 - fixtures\\clientetesteinvalido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\features.tests\\03 - order\\priorityorderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|solutionrelative:features.tests\\03 - order\\priorityorderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\features.tests\\03 - order\\ordemtestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|solutionrelative:features.tests\\03 - order\\ordemtestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\features.tests\\01 - traits\\clientetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|solutionrelative:features.tests\\01 - traits\\clientetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\features\\clientes\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|solutionrelative:01 - testes de unidade\\features\\clientes\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\features\\core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|solutionrelative:01 - testes de unidade\\features\\core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\features\\features.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|solutionrelative:01 - testes de unidade\\features\\features.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\features\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E466766-D9F9-4CC3-9740-94D942EDEAAD}|01 - Testes de Unidade\\Features\\Features.csproj|solutionrelative:01 - testes de unidade\\features\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\features.tests\\features.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6567539C-39A3-465A-9BBA-7AA86503B22C}|Features.Tests\\Features.Tests.csproj|solutionrelative:features.tests\\features.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52F7725-2913-47BB-8DBD-D2C984CBAAC5}|01 - Testes de Unidade\\Demo\\Demo.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52F7725-2913-47BB-8DBD-D2C984CBAAC5}|01 - Testes de Unidade\\Demo\\Demo.csproj|solutionrelative:01 - testes de unidade\\demo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo.tests\\assertingrangestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|solutionrelative:01 - testes de unidade\\demo.tests\\assertingrangestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo.tests\\assertingobjecttypestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|solutionrelative:01 - testes de unidade\\demo.tests\\assertingobjecttypestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo.tests\\assertingexceptionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|solutionrelative:01 - testes de unidade\\demo.tests\\assertingexceptionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo.tests\\assertingcollectionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|solutionrelative:01 - testes de unidade\\demo.tests\\assertingcollectionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo.tests\\assertnullbooltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|solutionrelative:01 - testes de unidade\\demo.tests\\assertnullbooltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo.tests\\assertnumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|solutionrelative:01 - testes de unidade\\demo.tests\\assertnumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo.tests\\calculadoratests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|solutionrelative:01 - testes de unidade\\demo.tests\\calculadoratests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo.tests\\assertstringstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F172850F-E9FD-4B2A-A600-963C38977D07}|01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj|solutionrelative:01 - testes de unidade\\demo.tests\\assertstringstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52F7725-2913-47BB-8DBD-D2C984CBAAC5}|01 - Testes de Unidade\\Demo\\Demo.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo\\stringtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52F7725-2913-47BB-8DBD-D2C984CBAAC5}|01 - Testes de Unidade\\Demo\\Demo.csproj|solutionrelative:01 - testes de unidade\\demo\\stringtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52F7725-2913-47BB-8DBD-D2C984CBAAC5}|01 - Testes de Unidade\\Demo\\Demo.csproj|c:\\users\\prysc\\onedrive\\documents\\demos\\testesdesoftware\\01 - testes de unidade\\demo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52F7725-2913-47BB-8DBD-D2C984CBAAC5}|01 - Testes de Unidade\\Demo\\Demo.csproj|solutionrelative:01 - testes de unidade\\demo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\05 - Mock\\ClienteServiceTests.cs",
+              "RelativeDocumentMoniker": "Features.Tests\\05 - Mock\\ClienteServiceTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\05 - Mock\\ClienteServiceTests.cs",
+              "RelativeToolTip": "Features.Tests\\05 - Mock\\ClienteServiceTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T23:10:18.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Clientes\\Cliente.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Features\\Clientes\\Cliente.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Clientes\\Cliente.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Features\\Clientes\\Cliente.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:05:41.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteEmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Clientes\\ClienteEmailNotification.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Features\\Clientes\\ClienteEmailNotification.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Clientes\\ClienteEmailNotification.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Features\\Clientes\\ClienteEmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:05:58.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Clientes\\ClienteService.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Features\\Clientes\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Clientes\\ClienteService.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Features\\Clientes\\ClienteService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:06:10.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteTestsFixture.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\02 - Fixtures\\ClienteTestsFixture.cs",
+              "RelativeDocumentMoniker": "Features.Tests\\02 - Fixtures\\ClienteTestsFixture.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\02 - Fixtures\\ClienteTestsFixture.cs",
+              "RelativeToolTip": "Features.Tests\\02 - Fixtures\\ClienteTestsFixture.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:54:38.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteTestsBogusFixture.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\04 - Dados Humanos\\ClienteTestsBogusFixture.cs",
+              "RelativeDocumentMoniker": "Features.Tests\\04 - Dados Humanos\\ClienteTestsBogusFixture.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\04 - Dados Humanos\\ClienteTestsBogusFixture.cs",
+              "RelativeToolTip": "Features.Tests\\04 - Dados Humanos\\ClienteTestsBogusFixture.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwFIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T21:59:03.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteTesteValido.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\02 - Fixtures\\ClienteTesteValido.cs",
+              "RelativeDocumentMoniker": "Features.Tests\\02 - Fixtures\\ClienteTesteValido.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\02 - Fixtures\\ClienteTesteValido.cs",
+              "RelativeToolTip": "Features.Tests\\02 - Fixtures\\ClienteTesteValido.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T01:09:04.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Clientes\\IClienteService.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Features\\Clientes\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Clientes\\IClienteService.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Features\\Clientes\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:08:47.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteBogusTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\04 - Dados Humanos\\ClienteBogusTests.cs",
+              "RelativeDocumentMoniker": "Features.Tests\\04 - Dados Humanos\\ClienteBogusTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\04 - Dados Humanos\\ClienteBogusTests.cs",
+              "RelativeToolTip": "Features.Tests\\04 - Dados Humanos\\ClienteBogusTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:30:54.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteTesteInvalido.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\02 - Fixtures\\ClienteTesteInvalido.cs",
+              "RelativeDocumentMoniker": "Features.Tests\\02 - Fixtures\\ClienteTesteInvalido.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\02 - Fixtures\\ClienteTesteInvalido.cs",
+              "RelativeToolTip": "Features.Tests\\02 - Fixtures\\ClienteTesteInvalido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:53:45.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PriorityOrderer.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\03 - Order\\PriorityOrderer.cs",
+              "RelativeDocumentMoniker": "Features.Tests\\03 - Order\\PriorityOrderer.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\03 - Order\\PriorityOrderer.cs",
+              "RelativeToolTip": "Features.Tests\\03 - Order\\PriorityOrderer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:00:49.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdemTestes.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\03 - Order\\OrdemTestes.cs",
+              "RelativeDocumentMoniker": "Features.Tests\\03 - Order\\OrdemTestes.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\03 - Order\\OrdemTestes.cs",
+              "RelativeToolTip": "Features.Tests\\03 - Order\\OrdemTestes.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:33:44.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\01 - Traits\\ClienteTests.cs",
+              "RelativeDocumentMoniker": "Features.Tests\\01 - Traits\\ClienteTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\01 - Traits\\ClienteTests.cs",
+              "RelativeToolTip": "Features.Tests\\01 - Traits\\ClienteTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:20:37.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Core\\IRepository.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Features\\Core\\IRepository.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Core\\IRepository.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Features\\Core\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:09:04.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Core\\Entity.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Features\\Core\\Entity.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Core\\Entity.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Features\\Core\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:08:55.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Clientes\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Features\\Clientes\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Clientes\\IClienteRepository.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Features\\Clientes\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:08:25.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Features.csproj",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Features\\Features.csproj",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+              "RelativeToolTip": "01 - Testes de Unidade\\Features\\Features.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T23:05:16.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Features.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\Features.Tests.csproj",
+              "RelativeDocumentMoniker": "Features.Tests\\Features.Tests.csproj",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\Features.Tests\\Features.Tests.csproj",
+              "RelativeToolTip": "Features.Tests\\Features.Tests.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T23:04:31.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssertingExceptionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertingExceptionsTests.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo.Tests\\AssertingExceptionsTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertingExceptionsTests.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo.Tests\\AssertingExceptionsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:55:30.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssertingCollectionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertingCollectionsTests.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo.Tests\\AssertingCollectionsTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertingCollectionsTests.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo.Tests\\AssertingCollectionsTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:38:35.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssertingObjectTypesTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertingObjectTypesTests.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo.Tests\\AssertingObjectTypesTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertingObjectTypesTests.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo.Tests\\AssertingObjectTypesTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:28:25.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssertingRangesTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertingRangesTests.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo.Tests\\AssertingRangesTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertingRangesTests.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo.Tests\\AssertingRangesTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:19:50.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssertNullBoolTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertNullBoolTests.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo.Tests\\AssertNullBoolTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertNullBoolTests.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo.Tests\\AssertNullBoolTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:06:14.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssertNumbersTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertNumbersTests.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo.Tests\\AssertNumbersTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertNumbersTests.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo.Tests\\AssertNumbersTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:55:14.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssertStringsTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertStringsTests.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo.Tests\\AssertStringsTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\AssertStringsTests.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo.Tests\\AssertStringsTests.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwFAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:45:31.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Funcionario.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Funcionario.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo\\Funcionario.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:31:40.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StringTools.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\StringTools.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo\\StringTools.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\StringTools.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo\\StringTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:30:36.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CalculadoraTests.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\CalculadoraTests.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo.Tests\\CalculadoraTests.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\CalculadoraTests.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo.Tests\\CalculadoraTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T00:02:02.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Calculadora.cs",
+              "RelativeDocumentMoniker": "01 - Testes de Unidade\\Demo\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\prysc\\OneDrive\\Documents\\Demos\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Calculadora.cs",
+              "RelativeToolTip": "01 - Testes de Unidade\\Demo\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T23:53:46.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
